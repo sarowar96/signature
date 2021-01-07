@@ -77,3 +77,33 @@ h3{
     margin-left: 25%;
     width: 30%;
 }
+.top-banner{
+    background-image: url("images/photos.png");
+    background-position: center;
+    background-size: 800px;
+    background-repeat: no-repeat;
+
+}
+#work{
+    text-align: center;
+    padding-top: 320px;
+    padding-right: 450px;
+    font-size:xx-large;
+    color: white;
+}
+#chat{
+    margin-left: 950px;    
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+.newly-center{
+    padding-left: 2%;
+}
+.center{
+    text-align: center;
+}
